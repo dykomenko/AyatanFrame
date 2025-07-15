@@ -11,8 +11,6 @@
 📦 [Download release / Скачать релиз](https://github.com/dykomenko/AyatanFrame/releases)  
 ▶️ Run / Запустите файл  
 
-*🪄 The program works without a window — just run it once*  
-*🪄 Программа работает без окна — просто один раз запустите*
 
 ---
 
